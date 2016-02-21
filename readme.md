@@ -1,5 +1,5 @@
 % Readme                                   
-% This file contains brief instructions regarding how to se the code.                                    
+% This file contains brief instructions regarding how to use the code.                                    
 %                                    
 % Author : Ajinkya Khade, askhade@ncsu.edu                                   
 
